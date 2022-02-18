@@ -11,3 +11,5 @@ x = re.findall("^hello", txt)
 #  print("No match")git
 
 print("sprawdzam czy dziala GIT")
+print("a teraz robie drugi commit")
+
